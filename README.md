@@ -23,9 +23,9 @@ Completed:
 
 Domain 1 – Security Principles ✅
 
-In Progress / Upcoming:
+Domain 2 – Business Continuity, Disaster Recovery & Incident Response ✅
 
-Domain 2 – Business Continuity, Disaster Recovery & Incident Response
+In progress:
 
 Domain 3 – Access Controls
 
